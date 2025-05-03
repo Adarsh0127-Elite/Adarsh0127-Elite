@@ -1,4 +1,4 @@
-  <h1 align="center">Hi Geeks, I'm Sarath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  <h1 align="center">Hi Geeks, I'm Adarsh⚡️ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div align="center">
 <p><img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&amp;size=25&amp;color=39FF14&amp;background=000000&amp;center=true&amp;vCenter=true&amp;width=490&amp;lines=%3E+Welcome+to+my+GitHub+profile...!" alt="Typing SVG"></p>
 </div>
@@ -6,19 +6,18 @@
 <h2 id="--about-me"><img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b></h2>
 <ul>
 <li>
-<p>🔭 I’m currently working in <code>Iopex Technologies</code> as <code>System Engineer-NOC</code></p>
+<p>🔭 I’m currently developing <code>Custom Roms</code> for <code>different devices</code></p>
 </li>
 <li>
-<p>👯 I’m looking forward to collaborate on open source projects.</p>
 </li>
 <li>
-<p>👨‍💻 You can access all of my open-source projects here on <strong><a href="https://github.com/sarath-pm">GitHub</a></strong></p>
+<p>👨‍💻 You can access all of my open-source projects here on <strong><a href="https://github.com/Adarsh0127-Elite">GitHub</a></strong></p>
 </li>
 <li>
-<p>💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉</p>
+<p>💬 </p>
 </li>
 <li>
-<p>😄 Pronouns: He/Him/We</p>
+<p>😄 Pronouns: He/Him</p>
 </li>
 <li>
 <p>⚡ Coding fact: “There are over 700 different programming languages”.</p>
@@ -124,21 +123,3 @@
 </ul>
 <p></p>
 <br> 
-<h2 id="-github-stats"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b></h2>
-<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=sarath-pm&amp;theme=tokyonight&amp;show_icons=true/460/300">
-</p><p><img 460="" width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarath-pm&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=tokyonight" 300&#x22;=""></p>
-<p><img 460="" width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=sarath-pm&amp;theme=tokyonight&amp;&amp;fire=FF801F&amp;currStreakNum=FFBE69&amp;currStreakLabel=FFBE69" 300&#x22;=""></p>
-<br>
-<h2 id="-connect-with-me"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <b>Connect with Me</b></h2>
-<p><em><b>I love connecting with different people,</b> so if you want to say <b>hi, I’d be delighted to meet you!</b>😃</em></p>
-<br>
-<p align="center">
-<a href="https://www.linkedin.com/in/sarath-p-m/" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="sarath-p-m" height="40" width="45"></a>
-&nbsp;<a href="https://dev.to/sarath_pm" target="blank"><img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--0UiMFgbU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0vbfzhjcsjs0u716x88o.gif" alt="sarath_pm" height="40" width="47"></a>  
-&nbsp;<a href="mailto:sarath2375@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171339003-ef5b5c96-eac8-478c-a9cc-318ca9477fce.gif" alt="sarath2375@gmail.com" width="40"></a>      
-&nbsp;<a href="https://www.hackerrank.com/sarath_pm" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171338019-50f8c8de-e1ac-4651-b2cf-1901eceb2e51.gif" alt="sarath_pm" height="40" width="45"></a>
-&nbsp;<a href="https://stackoverflow.com/users/19234611" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171333456-ac1d5e66-bd90-468b-a1bf-c030ba6a1fed.gif" alt="19234611" width="40">StackOverflow</a>
-&nbsp;<a href="skype:sarath2375?add" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/176819343-c1894b0e-8622-4a39-a34c-fd4125d32d4d.gif" alt="sarath2375" width="40"></a>
-</p><hr>
-<p>Credits: <a href="https://github.com/sarath-pm">Sarath P M</a>
-Last Edited on: 10/07/2022</p> 
