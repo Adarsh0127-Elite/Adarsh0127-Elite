@@ -20,7 +20,6 @@
 <p>😄 Pronouns: He/Him</p>
 </li>
 <li>
-<p>⚡ Coding fact: “There are over 700 different programming languages”.</p>
 </li>
 <li>
 <p>💪🏼 Fav Quote: “Great Developers never stop learning”.</p>
