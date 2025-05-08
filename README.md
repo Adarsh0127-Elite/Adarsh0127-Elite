@@ -22,7 +22,6 @@
 <li>
 </li>
 <li>
-<p>💪🏼 Fav Quote: “Great Developers never stop learning”.</p>
 </li>
 </ul>
 <br>
