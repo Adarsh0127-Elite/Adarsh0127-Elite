@@ -21,13 +21,13 @@
 <p>📱 Currently maintained devices-
 </li>
 <li>
-<p> Poco x6 Pro 5G aka duchamp
+<p> <code>Poco x6 Pro 5G</code> aka <code>duchamp</code></p>
 </li>
 <li>
-<p> Realme GT neo 3 aka lisaa
+<p> <code>Realme GT neo 3</code> aka <code>lisaa</code></p>
 </li>
 <li>
-<p> Oneplus 10R 5G aka pickle
+<p> <code>Oneplus 10R 5G</code> aka <code>pickle</code></p>
 </ul>
 <br>
 <h2 id="-skills"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"><b> Skills</b></h2>
