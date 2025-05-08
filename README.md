@@ -9,8 +9,6 @@
 <p>🔭 I’m currently developing <code>Custom Roms</code> for <code>different devices</code></p>
 </li>
 <li>
-</li>
-<li>
 <p>👨‍💻 You can access all of my open-source projects here on <strong><a href="https://github.com/Adarsh0127-Elite">GitHub</a></strong></p>
 </li>
 <li>
