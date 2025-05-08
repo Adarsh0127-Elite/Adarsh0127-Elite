@@ -20,9 +20,16 @@
 <p>😄 Pronouns: He/Him</p>
 </li>
 <li>
+<p>📱 Currently maintained devices-
 </li>
 <li>
+<p> Poco x6 Pro 5G aka duchamp
 </li>
+<li>
+<p> Realme GT neo 3 aka lisaa
+</li>
+<li>
+<p> Oneplus 10R 5G aka pickle
 </ul>
 <br>
 <h2 id="-skills"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"><b> Skills</b></h2>
