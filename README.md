@@ -21,7 +21,10 @@
 <p>📱 Currently maintained devices-
 </li>
 <li>
-<p> <code>Poco x6 Pro 5G</code> aka <code>duchamp</code></p>
+<p> <code>Poco X6 Pro 5G</code> aka <code>duchamp</code></p>
+</li>
+<li>
+<p> <code>Oneplus 13R</code> aka <code>giulia</code></p>
 </li>
 <li>
 <p> <code>Realme GT neo 3</code> aka <code>lisaa</code></p>
